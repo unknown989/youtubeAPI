@@ -29,4 +29,4 @@ Show Help
 python3 main.py -h|--help
 ```
 # License
-[GNU GPG3](https://choosealicense.com/licenses/gpl-3.0/)
+[GNU-GPL3](https://choosealicense.com/licenses/gpl-3.0/)
